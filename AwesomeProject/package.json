@@ -17,7 +17,7 @@
         "react-native": "0.61.5",
         "react-native-gesture-handler": "^1.5.3",
         "react-native-paper": "^3.4.0",
-        "react-native-reanimated": "^1.7.0",
+        "react-native-reanimated": "^2.10.0",
         "vue-native-core": "^0.1.4",
         "vue-native-helper": "^0.1.4",
         "vue-native-router": "^0.1.1",
